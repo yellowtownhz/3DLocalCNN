@@ -2,8 +2,7 @@
 This repository is the official implementation of:
 
 **3DLocalCNN**\
-Zhen Huang, Xu Shen, Jun Xing, Tongliang Liu, Xinmei Tian, Houqiang Li, Bing
-Deng, Jianqiang Huang, Xian-Sheng Hua\
+Zhen Huang, Dixiu Xue, Xu Shen, Xinmei Tian, Houqiang Li, Jianqiang Huang, Xian-Sheng Hua\
 *ICCV 2021*
 
 
